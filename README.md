@@ -62,7 +62,7 @@
     <p>Vamos planejar sua próxima viagem juntos?</p>
     <p>
       💬 <strong>WhatsApp:</strong> <a href="https://wa.me/5547996139312?text=Ol%C3%A1%2C+quero+ajuda+para+planejar+minha+viagem+%F0%9F%9A%80" target="_blank">Clique aqui para conversar</a><br>
-      📧 <strong>E-mail:</strong> cs.cheaptravel@gmail.com<br>
+      📧 <strong>E-mail:</strong> s.cheaptravel@gmail.com<br>
       📸 <strong>Instagram:</strong> <a href="https://www.instagram.com/_cheaptravel" target="_blank">@_cheaptravel</a>
     </p>
   </section>
