@@ -14,7 +14,7 @@
     .btn { display: inline-block; padding: 12px 24px; background: #009688; color: #fff; text-decoration: none; border-radius: 5px; margin-top: 20px; font-weight: bold; transition: background 0.3s; }
     .btn:hover { background: #00796B; }
     .quem-somos-img { width: 100%; max-width: 500px; border-radius: 10px; margin-top: 20px; }
-    .logo-img { width: 120px; margin-bottom: 20px; }
+    .logo.png { width: 120px; margin-bottom: 20px; }
     @media (max-width: 600px) {
       header, section, footer { padding: 20px 10px; }
       .btn { width: 100%; text-align: center; }
@@ -24,7 +24,7 @@
 </head>
 <body>
   <header>
-    <img src="/mnt/data/61607f34-2d8e-4797-9c83-f46202b000d3.png" alt="Logo Cheap Travel" class="logo-img">
+    <img src="/mnt/data/61607f34-2d8e-4797-9c83-f46202b000d3.png" alt="Logo Cheap Travel" class="logo.png">
     <h1>Cheap Travel</h1>
     <p>Viajar mais, gastando menos, é possível!</p>
     <nav>
@@ -43,7 +43,7 @@
       <li><strong>Visão:</strong> ser referência em roteiros econômicos</li>
       <li><strong>Valores:</strong> transparência, empatia, economia</li>
     </ul>
-    <img src="/mnt/data/24d2d9bc-db7c-4aaf-a34e-e0f1ff141643.png" alt="Foto casal Cheap Travel" class="quem-somos-img">
+    <img src="/mnt/data/24d2d9bc-db7c-4aaf-a34e-e0f1ff141643.png" alt="Foto casal Cheap Travel" class="foto-casal.png">
   </section>
 
   <section id="funciona">
